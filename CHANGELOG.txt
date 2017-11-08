@@ -1,15 +1,18 @@
-Version 0.1 - 13.09.2017
+Version 0.1 - 13.09.2017 - 61ce991
 * Realisierung des Erstellen der CSV über einfaches Speichern des ersten Tabellenblatt und ausfüllen der Tabelle auf dem zweitem
 
-Version 0.2 - 02.11.2017
+Version 0.2 - 02.11.2017 - 61ce991
 * Aufgreifen der Funktionen als Implementierung über Makros in Visual Basic in Excel.
 * Export der Tabellenspalten P bis V
 * Verweis der Spalten A bis O auf die Spalten P bis V
 * Anfertigung einer Anleitung, erreichbar durch den Button "Anleitung"
 
-Version 0.3 - 07.11.2017
+Version 0.3 - 07.11.2017 - 61ce991
 * Entfernen der Spalten P bis V und Zugriff auf Spalten A bis O um Bedienung zu erleichtern.
 * Einfügen eines Tests auf Benutzung unter Macintosh
 * Einfügen einer Funktion zum Testen der Länge der Fehler
 * Begrenzung der Tabellenspalten TagVon, MonatVon, StundeVon, MinuteVon, TagBis, MonatBis, StundeBis, MinuteBis auf zwei Stellen.
 * Begrenzung der Tabellenspalten JahrVon und JahrBis auf vier Stellen.
+
+Version 0.4 - 08.11.2017 - 
+* keine besonderen Änderungen
