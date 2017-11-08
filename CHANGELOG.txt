@@ -21,5 +21,5 @@ Version 0.5 - 08.11.2017 - 5c7ed9e
 * Werden die Spalten TagBis, MonatBis, und JahrBis nicht ausgefüllt, wird dort das Von Datum genutzt.
 * Werden die Spalten StundeBis und MinuteBis nicht ausgefüllt, wird dort die Von Uhrzeit genutzt.
 
-Version 0.6 - 08.11.2017 - 
-* Macintosh wird nun auch unterstützt
+Version 0.6 - 08.11.2017 - 41b8ad0
+* Macintosh wird nun auch unterstützt 
