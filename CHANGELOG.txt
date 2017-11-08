@@ -14,5 +14,9 @@ Version 0.3 - 07.11.2017 - 61ce991
 * Begrenzung der Tabellenspalten TagVon, MonatVon, StundeVon, MinuteVon, TagBis, MonatBis, StundeBis, MinuteBis auf zwei Stellen.
 * Begrenzung der Tabellenspalten JahrVon und JahrBis auf vier Stellen.
 
-Version 0.4 - 08.11.2017 - 
+Version 0.4 - 08.11.2017 - 9527aca
 * keine besonderen Änderungen
+
+Version 0.5 - 08.11.2017 - 5c7ed9e
+* Werden die Spalten TagBis, MonatBis, und JahrBis nicht ausgefüllt, wird dort das Von Datum genutzt.
+* Werden die Spalten StundeBis und MinuteBis nicht ausgefüllt, wird dort die Von Uhrzeit genutzt.
