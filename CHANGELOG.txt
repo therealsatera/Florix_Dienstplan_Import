@@ -23,3 +23,6 @@ Version 0.5 - 08.11.2017 - 5c7ed9e
 
 Version 0.6 - 08.11.2017 - 41b8ad0
 * Macintosh wird nun auch unterstützt 
+
+Version 0.7 - 09.11.2017
+* Es wurde bei Ebene und Kategorie statt den Kürzeln, das komplette Wort übergeben (z.b.: Ortsteil statt O). Dies verhinderte das importieren. Dies wurde nun verbessert.
