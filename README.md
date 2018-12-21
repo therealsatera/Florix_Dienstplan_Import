@@ -2,8 +2,8 @@ Version 0.10 - 30.11.2018 - 7db6ab2
 Anpassungen an neuste Florix-Version und Fehlerbehebungen
 * Der Import wurde im Backend dynamischer umgeschrieben.
 * Möglichkeiten unter Dropdown die Orga-Kennungen einzutragen.
-* Züge / Gruppen unterstützung
-
+* Züge / Gruppen werden unterstützt
+-------------
 Version 0.9 - 20.01.2018 - fc51fde
 Fehlerbehebungen
 * Es wurde eine kleine Erklärung zur Angabe des Geburtsdatums des Ausbilders hinzugefügt.
@@ -17,7 +17,7 @@ Anpassungen an neue ZMS Version 4.86 vom 27.11.2017:
 
 Bitte beachten Sie:
 * Für die Spalte Kennung, benötigen Sie die jeweiligen Rechte in Florix
-* Die Daten des Ausbilders müssen Stimmen
+* Die Daten des Ausbilders müssen stimmen
 * Nach dem Update auf 4.86a ist bei den Spalten Dienstart / Thema kein Freitext mehr möglich.
 -------------
 Version 0.7 - 09.11.2017 - 861a60b
