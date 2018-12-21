@@ -3,7 +3,8 @@ Zum Download die Datei "Florix_Dienstplan_Import.xlsm" herunterladen
 Fragen zur Datei: florix@feuerwehr-solms.de
 
 *********************************************************************
-*************************Versionsverlauf*****************************
+ Versionsverlauf 
+*********************************************************************
 *********************************************************************
 
 Version 0.10 - 30.11.2018 - 7db6ab2
